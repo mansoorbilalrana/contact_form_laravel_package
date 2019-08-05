@@ -1,0 +1,15 @@
+{
+    "name": "glowlogix/contactform",
+    "authors": [
+        {
+            "name": "mansoor",
+            "email": "mansoor@glowlogix.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "glowlogix\\Contactform\\": "src/"
+        }
+    }
+}
